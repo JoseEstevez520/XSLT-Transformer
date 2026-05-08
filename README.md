@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Quick Start for Students
+## 🚀 Quick Start
 
 1. **Download**: Click on `XSLT-Transformer.exe` in the file list above and click the "Download" button.
 2. **Run**: Double-click the file. 
