@@ -1,6 +1,8 @@
 # XSLT-Transformer
 
-> **Download and Run**: Simply download [XSLT-Transformer.exe](XSLT-Transformer.exe) from this repository and double-click it. No Python or installation required!
+> **Windows Users**: Simply download [XSLT-Transformer.exe](XSLT-Transformer.exe) from this repository and double-click it. No Python or installation required!
+> 
+> **Linux / macOS Users**: Please see the [Linux / macOS](#-linux---macos) section below for installation instructions.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
